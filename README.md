@@ -15,3 +15,5 @@ first commit
 Исключить все файлы, заканчивающиеся на _override.tf.json
 Исключить все файлы .terraformrc
 Исключить все файлы terraform.rc
+
+fix
