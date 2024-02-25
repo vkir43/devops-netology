@@ -31,3 +31,5 @@ first commit
 Исключить все файлы terraform.rc
 
 Pycharm
+
+Pycharm second
