@@ -29,3 +29,5 @@ first commit
 Исключить все файлы .terraformrc
 
 Исключить все файлы terraform.rc
+
+Pycharm
